@@ -23,9 +23,7 @@ Every markdown file in the lectures folder contains the date and the gist of wha
 
 Additionally, we will be slowly integrating detailed text explanations of algorithms, data structures and design patterns into the resources/ folder.
 
-🇧🇷
-
-# Clube de Hacking PUC-PR
+# 🇧🇷 Clube de Hacking PUC-PR
 
 Este repositório tem como objetivo centralizar as atividades e recursos oficiais do Clube de Hacking da PUC-PR. Embora as atividades do clube no campus sejam restritas aos alunos da PUC-PR, a gravação de todas as aulas será divulgada publicamente no [canal do clube no YouTube](https://www.youtube.com/channel/UCl1qSqYL4tQzbYumkZFtSmQ).
 
