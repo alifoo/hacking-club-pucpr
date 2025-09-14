@@ -1,12 +1,12 @@
-# Hacking Club PUC-PR
+# Hacking Club PUCPR
 
-This repo is meant to centralize the official [PUC-PR's](https://pt.wikipedia.org/wiki/Pontif%C3%ADcia_Universidade_Cat%C3%B3lica_do_Paran%C3%A1) Hacking Club activities and resources. Even though club activities in campus are restricted to PUC-PR's students, every class's recording is going to be publicly released to the [club youtube channel](https://www.youtube.com/channel/UCl1qSqYL4tQzbYumkZFtSmQ).
+This repo is meant to centralize the official [PUCPR's](https://pt.wikipedia.org/wiki/Pontif%C3%ADcia_Universidade_Cat%C3%B3lica_do_Paran%C3%A1) Hacking Club activities and resources. Even though club activities in campus are restricted to PUCPR's students, every class's recording is going to be publicly released to the [club youtube channel](https://www.youtube.com/channel/UCl1qSqYL4tQzbYumkZFtSmQ).
 
 ## About the club
 
 The term "hacking" we use is not related to unauthorized access to systems. Here, we use this term to denote Creative Problem Solving, which is the main pillar of the club.
 
-Our ultimate goal is to help every PUC-PR's student commited to the club to be part of the next generation of excellent programmers.
+Our ultimate goal is to help every PUCPR's student commited to the club to be part of the next generation of excellent programmers.
 
 And by excellent, we mean programmers that are constantly sharpening habilities like:
 - Insatiable curiosity
@@ -23,15 +23,15 @@ Every markdown file in the lectures folder contains the date and the gist of wha
 
 Additionally, we will be slowly integrating detailed text explanations of algorithms, data structures and design patterns into the resources/ folder.
 
-# 🇧🇷 Clube de Hacking PUC-PR
+# 🇧🇷 Clube de Hacking PUCPR
 
-Este repositório tem como objetivo centralizar as atividades e recursos oficiais do Clube de Hacking da PUC-PR. Embora as atividades do clube no campus sejam restritas aos alunos da PUC-PR, a gravação de todas as aulas será divulgada publicamente no [canal do clube no YouTube](https://www.youtube.com/channel/UCl1qSqYL4tQzbYumkZFtSmQ).
+Este repositório tem como objetivo centralizar as atividades e recursos oficiais do Clube de Hacking da PUCPR. Embora as atividades do clube no campus sejam restritas aos alunos da PUCPR, a gravação de todas as aulas será divulgada publicamente no [canal do clube no YouTube](https://www.youtube.com/channel/UCl1qSqYL4tQzbYumkZFtSmQ).
 
 ## Sobre o clube
 
 O termo "hacking" que usamos não está relacionado ao acesso não autorizado a sistemas. Aqui, usamos esse termo para denotar a Solução Criativa de Problemas, que é o principal pilar do clube.
 
-O nosso objetivo final é ajudar todos os alunos da PUC-PR comprometidos com o clube a fazerem parte da próxima geração de excelentes programadores.
+O nosso objetivo final é ajudar todos os alunos da PUCPR comprometidos com o clube a fazerem parte da próxima geração de excelentes programadores.
 
 E por excelentes, queremos dizer programadores que estão constantemente aprimorando habilidades como:
 - Curiosidade insaciável
